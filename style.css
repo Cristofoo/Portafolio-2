@@ -1,0 +1,69 @@
+body{
+    background-color: black;
+}
+
+.caca{
+    border-radius: 70%;
+    margin: 20px;
+    box-shadow: 0px 0px 100px  red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.minombre {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border: dotted 1px;
+    background-color: red;
+}
+
+h3 {
+    border-bottom: 2px solid rgb(12, 112, 25);
+    font-size: 1.5em;
+    color: white;
+    display: flex;
+    align-items: center;
+justify-content: center;
+
+}
+
+ol > li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.4em;
+    margin: 6px;
+    color: white;
+    justify-content: center;
+}
+
+.encontrar {
+    color: white;
+}
+
+.nombre {
+    color: white;
+}
+
+label{
+    color: aliceblue;
+}
+
+.contenido{
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: silver;
+border-radius: 20px;
+padding: 20px;
+}
+.gato{
+display: flex;
+justify-content: right;
+}
+.video{
+    margin:20px;
+}
+.Cosas{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
